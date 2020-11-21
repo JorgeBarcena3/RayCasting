@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\code\source\SFML_Window.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\source\Scene.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\source\main.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\source\Player.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\source\Ray.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="headers">
+      <UniqueIdentifier>{099344f7-4f45-4b1a-a123-cc1c6286e88f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources">
+      <UniqueIdentifier>{d38308d0-6bc9-47d2-8262-da19324856a8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\code\headers\SFML_Window.hpp">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Scene.hpp">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Player.hpp">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Map.hpp">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Ray.hpp">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Math.hpp">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
